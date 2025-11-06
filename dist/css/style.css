@@ -28,3 +28,28 @@
     transform: scale(1.05);
     transition: 0.5s;
 }
+
+.navbar {
+    transition: 0.3s;
+}
+
+.scrolling-active{
+    background-color: #0d6efd;
+}
+
+.service i {
+    color: rgb(0, 160, 0);
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.footer p {
+    color: grey;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: grey;
+}
